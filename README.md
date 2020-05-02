@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-Coding Exercises from Machine Learning Course on Udemy
+Coding Exercises using libraries like Scikit-learn, Keras, Numpy, Pandas, Matplotlib, NLTK, etc., from Machine Learning Course on Udemy
